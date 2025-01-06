@@ -18,3 +18,7 @@ These workflows are optimized for large-scale datasets and use SLURM for paralle
 - SAMtools 1.15
 - GATK 4.4.0.0
 - VEP
+
+
+# updates
+2025-01-06 created repository and uploaded drafted workflows
